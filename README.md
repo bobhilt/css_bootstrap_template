@@ -1,0 +1,2 @@
+** css_bootstrap_template
+Project uses font-awesome icons & sass with some simple animation (vendor prefixes), and multiple sections with a responsive design to seamlessly adapt to different screen or window sizes.
